@@ -1,0 +1,62 @@
+body {
+	padding-top:100px;
+	margin: auto;
+	text-align: center;
+	background-size: cover;
+	width: 1200px;
+}
+
+h1{
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: 200;
+}
+
+#slogan {
+	font-family: Georgia, serif; 
+	font-style: italic; 
+	font-weight: bold;
+	font-size: 54px;
+}
+
+#intro {
+	margin: auto;
+	text-align:center;
+	width: 900px;
+}
+
+ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+	display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+
+a {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover {
+	color: #ff6060;
+}
